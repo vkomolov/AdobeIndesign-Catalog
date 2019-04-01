@@ -1,0 +1,144 @@
+%!Adobe-FontList 1.19
+%Locale:0x419
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BritannicBold
+FamilyName:Britannic Bold
+StyleName:Regular
+FullName:Britannic Bold
+MenuName:Britannic Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\Arch\Doc\Business\Business Projects\Tornado\DATA\DIST\Tornado_mini_Eng Folder\Document fonts\BRITANIC.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:40728
+FileModTime:1348917098
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Britannic Bold
+NameArray:0,Win,1,Britannic Bold
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:CalisMTBol
+FamilyName:Calisto MT
+StyleName:Bold
+FullName:Calisto MT Bold
+MenuName:Calisto MT
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\Arch\Doc\Business\Business Projects\Tornado\DATA\DIST\Tornado_mini_Eng Folder\Document fonts\CALISTB.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:85080
+FileModTime:1348917116
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Calisto MT Bold
+NameArray:0,Win,1,Calisto MT
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia
+FamilyName:Georgia
+StyleName:Regular
+FullName:Georgia
+MenuName:Georgia
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\Arch\Doc\Business\Business Projects\Tornado\DATA\DIST\Tornado_mini_Eng Folder\Document fonts\georgia.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:157080
+FileModTime:1244666621
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Georgia
+NameArray:0,Win,1,Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Georgia-Bold
+FamilyName:Georgia
+StyleName:Bold
+FullName:Georgia Bold
+MenuName:Georgia
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:G:\Arch\Doc\Business\Business Projects\Tornado\DATA\DIST\Tornado_mini_Eng Folder\Document fonts\georgiab.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:145940
+FileModTime:1244666621
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Georgia Bold
+NameArray:0,Win,1,Georgia
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\Arch\Doc\Business\Business Projects\Tornado\DATA\DIST\Tornado_mini_Eng Folder\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1519721526
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Stencil
+FamilyName:Stencil
+StyleName:Regular
+FullName:Stencil
+MenuName:Stencil
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:G:\Arch\Doc\Business\Business Projects\Tornado\DATA\DIST\Tornado_mini_Eng Folder\Document fonts\STENCIL.TTF
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:55596
+FileModTime:1348917098
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Stencil
+NameArray:0,Win,1,Stencil
+%EndFont
+
